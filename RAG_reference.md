@@ -31,7 +31,7 @@ Documenti (.docx / .pdf)
   Vector Store in memoria   ←── InMemoryVectorStore
 
 
-FASE ONLINE (per ogni query)
+FASE ONLINE (per ogni singola query: ex per ogni cluster da analizzare)
 ──────────────────────────────────────
   Query (testo libero)
         │
